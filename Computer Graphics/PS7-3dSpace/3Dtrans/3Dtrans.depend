@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1413276977 source:/home/student/Mukund/Week9/3Dtrans/main.cpp
+	<iostream>
+	<GL/glut.h>
+	<math.h>
+	<time.h>
+	<stdio.h>
+

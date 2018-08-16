@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1408442721 source:/home/student/Desktop/120905250/w3/circle/main.cpp
+	<GL/glut.h>
+	<cmath>
+

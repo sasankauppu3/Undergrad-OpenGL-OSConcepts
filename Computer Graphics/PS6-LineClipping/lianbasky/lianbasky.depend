@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1410253816 source:/home/student/Desktop/120905250/w6/lianbasky/main.cpp
+	<GL/glut.h>
+	<iostream>
+	<math.h>
+

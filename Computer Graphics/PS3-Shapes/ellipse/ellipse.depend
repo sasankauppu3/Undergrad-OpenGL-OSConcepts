@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1408443240 source:/home/student/Desktop/120905250/w3/ellipse/main.cpp
+	<GL/glut.h>
+	<GL/glu.h>
+	<GL/gl.h>
+	<stdio.h>
+	<math.h>
+

@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1413278973 source:/home/student/Mukund/Week9/Space/main.cpp
+	<GL/gl.h>
+	<GL/glu.h>
+	<GL/glut.h>
+	<iostream>
+

@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1409651827 source:/home/student/Desktop/120905250/w4/floodfill/main.cpp
+	<GL/glut.h>
+	<iostream>
+	<math.h>
+	<stdio.h>
+

@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1409650295 source:/home/student/Desktop/120905250/w4/boundaryfill/main.cpp
+	<GL/glut.h>
+	<stdio.h>
+	<math.h>
+

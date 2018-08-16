@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1413277782 source:/home/student/Mukund/Week9/Cube/main.cpp
+	<stdlib.h>
+	<GL/gl.h>
+	<GL/glu.h>
+	<GL/glut.h>
+
